@@ -71,4 +71,4 @@ Built a system that can accurately detect diseases in plant leaves using images.
 
 - Chess  
 - Playing Cricket  
-You can view my detailed resume [here](portfolio.html).
+You can view my detailed resume [here](Portfolio.html).
